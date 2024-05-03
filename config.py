@@ -28,7 +28,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "5768780884"))
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://nalaaadi0:PlorAAS4V220glg@cluster0.dmir0sm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://immortal:5412ascs@immortal.jehlw9n.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "filestorebot")
 
 #force sub channel id, if you want enable force sub
